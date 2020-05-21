@@ -17,8 +17,6 @@ except ImportError:
 
 from setuptools import setup, find_packages
 
-exec(open('moviepy/version.py').read()) # loads __version__
-
 setup(name='moviepy',
       version='1.3.3',
       author='Julien Muchembled, Victor Stinner',
