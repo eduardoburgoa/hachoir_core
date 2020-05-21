@@ -17,7 +17,7 @@ except ImportError:
 
 from setuptools import setup, find_packages
 
-setup(name='moviepy',
+setup(name='hachoir_core',
       version='1.3.3',
       author='Julien Muchembled, Victor Stinner',
       description='Represent binary files as a tree of Python objects',
