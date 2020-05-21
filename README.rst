@@ -23,7 +23,7 @@ interesting features:
 Installation
 ============
 
- `pip install https://github.com/eduardoburgoa/hachoir_core`
+ `pip install git+https://github.com/eduardoburgoa/hachoir_core`
 
 hachoir-core 1.3.3 (2010-02-26)
 ===============================
